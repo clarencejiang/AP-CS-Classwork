@@ -17,8 +17,10 @@ customers.
 2.Also it should includes a method to 
 choose food, considering the “taste” 
 (spicy, sweet, salty, etc), the money
-taken, how to pay the money, whether to
-use a coupon or not
+taken, whether to use a coupon or not, 
+how to pay (using phone or cash or credit card), 
+pay method(through the shop assistant or using the
+self-pay machine)
 
 3. Also, today is a special day that 
 McDonald decides to give certain customer 
@@ -27,6 +29,6 @@ assumptions, they get a chance to get an
 opportunity to gain gifts. 
 
 Main Plan: 
-I’ll use different classes to fulfill 
+Use different classes to fulfill 
 different goals in the entire “eating”
 process. 
