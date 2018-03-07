@@ -13,11 +13,11 @@ import java.util.Date;
 public class Library {
 
 	public static void main(String[] args) {
-		Book b = new Book("Rush B", "Jeff Zhang", 400820, true, new Date(), false);
+		Libraryitem b = new Book("Rush B", "Jeff Zhang", 400820, true, new Date(), false);
 		b.printDetails();
 		System.out.println();
 
-		CD c = new CD("Snow halation", "muse", 99999, true, new Date(), "Pop music");
+		Libraryitem c = new CD("Snow halation", "muse", 99999, true, new Date(), "Pop music");
 		c.printDetails();
 	}
 }
